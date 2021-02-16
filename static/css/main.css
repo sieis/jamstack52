@@ -1,0 +1,14 @@
+html, body{
+  margin: 0;
+  padding: 0;
+}
+
+.jamstack52-waitlist{
+  margin: 15%;
+}
+
+body{
+  background-image: url(/images/Flat-Mountains.svg);
+  background-attachment: fixed;
+  background-size: cover;
+}
